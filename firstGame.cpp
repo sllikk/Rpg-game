@@ -129,7 +129,7 @@ int main() {
     string text = "\nEdward the Great was a mighty knight with incredible strength and agility. His physical abilities and health allowed him to fight tirelessly for hours. He was also very intelligent and analytical, making him a tactical asset on the battlefield. ";
     string text2 = "\nEdward wielded a two-handed sword that inflicted devastating damage, and his armor was designed to protect against enemy attacks. In the history of his kingdom, he was recognized as one of the most distinguished knights of all time.";
     cout << text << text2 << endl;
-    cout << "\nХарактеристики героя:" << endl;
+    cout << "\nCharacter's Background:" << endl;
     myKnight.naEkran();
 
     cout << "Character's Background:" << endl;
@@ -333,8 +333,8 @@ int main() {
     }
 
 
-
-    Sleep(4000);
+    
+    Sleep(5000);
     return 0;
 }
 
